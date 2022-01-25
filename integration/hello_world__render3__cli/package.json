@@ -22,7 +22,7 @@
     "@angular/platform-browser-dynamic": "file:../../dist/packages-dist/platform-browser-dynamic",
     "@angular/router": "file:../../dist/packages-dist/router",
     "core-js": "2.4.1",
-    "rxjs": "5.5.6",
+    "rxjs": "5.5.12",
     "zone.js": "0.8.19"
   },
   "devDependencies": {
